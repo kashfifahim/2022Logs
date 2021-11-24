@@ -1,3 +1,4 @@
 # EngineeringLogs
 
-## Testing github connection
+## November 24, 2021
+- [DONE] Testing github connection
