@@ -1,5 +1,13 @@
 # EngineeringLogs
 
+## November 29, 2021
+- Work through OOP Python module on Educative.io
+  - Classes and Objects
+  - Information Hiding
+  - Inheritance
+  - Polymorphism
+  - Object Relationships
+
 ## November 24, 2021
 - [DONE] Testing github connection
 - [DONE] Download PyCharm IDE -- I want to use its debugger
