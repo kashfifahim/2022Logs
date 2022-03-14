@@ -3,9 +3,9 @@
 |  Date  |  Task |
 | ------ | ------| 
 | March 14  | - [ ] Proofread Tutorials 1, 2 |
-|           |       - [X] Spelling and grammar check for T2 |
+|           | -     [X] Spelling and grammar check for T2 |
 |           | - [X] Fix spacing for ```yml``` configuratins |
-|           |       - Updated for tutorial 2                |
+|           |       - [X] Updated for tutorial 2                |
 |           | - [X] Send email to Miguel to schedule meeting | 
 |           | - [ ] Complete Tutorial 3 | 
 |           | - [ ] Start work on weekly analytic content |
