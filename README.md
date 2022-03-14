@@ -11,3 +11,4 @@
 |           | - [ ] Start work on weekly analytic content |
 |           | - [ ] Complete Tutorial 4 |
 |           | - [ ] Collect material for Tutorial 5 |
+|           | - [ ] Look at problems people have posted on social media
