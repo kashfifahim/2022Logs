@@ -3,6 +3,7 @@
 |  Date  |  Task |
 | ------ | ------| 
 | March 14  | - [ ] Proofread Tutorials 1, 2 |
+|           |       - [X] Spelling and grammar check for T2 |
 |           | - [] Fix spacing for ```yml``` configuratins |
 |           | - [X] Send email to Miguel to schedule meeting | 
 |           | - [ ] Complete Tutorial 3 | 
