@@ -9,7 +9,7 @@
 |           | - [ ] Write-Edit-Rewrite |
 |           | - [ ] Add visuals |
 |           | - [ ] Complete Tutorial 4 |
-|           | - [ ] Understand key component for Tutorial 4 |
+|           | - [X] Understand key component for Tutorial 4 |
 |           | - [ ] Write-Edit-Rewrite |
 |           | - [ ] Add visuals |
 |           | - [ ] Start work on weekly analytic content |
