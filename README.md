@@ -2,7 +2,8 @@
 
 |  Date  |  Task |
 | ------ | ------| 
-| March 14  | - [ ] Proofread Tutorials 1, 2 |
+| March 14  | - [X] Proofread Tutorials 1, 2 |
+|           | - [X] Send email to Miguel to schedule meeting | 
 |           | - [ ] Complete Tutorial 3 | 
 |           | - [ ] Complete Tutorial 4 |
 |           | - [ ] Start work on weekly analytic content |
