@@ -5,7 +5,7 @@
 | March 14  | - [ ] Proofread Tutorials 1, 2 |
 |           | - [ ] Complete Tutorial 3 | 
 |           | - [ ] Complete Tutorial 4 |
-| - [ ] Start work on weekly analytic content |
+|           | - [ ] Start work on weekly analytic content |
 |           | - [ ] Collect material for Tutorial 5 |
 |           | - [ ] Look at problems people have posted on social media
 | March 14  | - [X] Proofread Tutorials 1, 2 |
