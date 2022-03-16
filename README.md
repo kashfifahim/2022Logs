@@ -3,6 +3,7 @@
 |  Date  |  Task |
 | ------ | ------| 
 | March 16  | |
+|           | - [ ] Meeting at 4:00 p.m.| 
 |           | - [ ] Complete Tutorial 4 |
 |           | - [ ] Understand key component for Tutorial 4 |
 |           | - [ ] Write-Edit-Rewrite |
