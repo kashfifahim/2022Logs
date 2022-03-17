@@ -2,15 +2,16 @@
 
 |  Date  |  Task |
 | ------ | ------| 
-| March 16  | |
-|           | - [ ] Meeting at 4:00 p.m.| 
-|           | - [ ] Complete Tutorial 4 |
+| March 17  | - [ ] Complete Tutorial 4 |
 |           | - [ ] Understand key component for Tutorial 4 |
 |           | - [ ] Write-Edit-Rewrite |
 |           | - [ ] Add visuals |
+|           | - [ ] Add summaries and intro to each tutorial | 
 |           | - [ ] Start work on weekly analytic content |
 |           | - [ ] Collect material for Tutorial 5 |
-|           | - [ ] Look at problems people have posted on social media
+|           | - [ ] Look at Chemistry, Physics, Phamaceutical forums for people looking to autoamte their calculation/research. |
+| March 16  | |
+|           | - [X] Meeting at 4:00 p.m.| 
 | March 15  | - [X] Proofread Tutorials 1, 2 |
 |           | - [X] Send email to Miguel to schedule meeting | 
 |           | - [X] Complete Tutorial 3 |
