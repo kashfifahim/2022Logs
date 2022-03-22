@@ -5,11 +5,11 @@
 | March 23  | |
 |           | - [ ] Pair programming with Roy to continue work on Calendar widget. |
 |           | - [ ] Share draft of weekly analytic content |
-| March 22  | |
-| March 21  | |
+| March 22  | - [ ] |
 |           | - [] Start work on weekly analytic content |
 |           | - [ ] Collect material for Tutorial 5 |
 |           | - [ ] Look at problems people have posted on social media
+| March 21  | |
 |           | - [X] Send email to Engineers about Monday meeting |
 |           | - [X] Meeting with Rohan at 2:30 p.m. |
 |           | - [X] Meeting with Roy, Migues at 4:00 p.m. to see Demo |
