@@ -2,7 +2,7 @@
 
 |  Date  |  Task |
 | ------ | ------| 
-| March 22  | |
+| March 23  | |
 |           | - [ ] Pair programming with Roy to continue work on Calendar widget. |
 |           | - [ ] Share draft of weekly analytic content |
 | March 22  | |
