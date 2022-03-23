@@ -3,11 +3,13 @@
 |  Date  |  Task |
 | ------ | ------| 
 | March 23  | |
-|           | - [ ] Pair programming with Roy to continue work on Calendar widget. |
-|           | - [ ] Share draft of weekly analytic content |
+|           | - [ ] Meeting at 4:00 p.m. -- Blocked on the different views, have a discussion on the different view, best practices, examples to use as reference|
+|           | - [ ] Respond to Rohan, return with feedback on his code, his documentation, his bio. |
+|           | - [ ] Research for personal python project |
+|           | - [ ] Review notes from Roy meeting |
 | March 22  | - [ ] |
-|           | - [] Start work on weekly analytic content |
-|           | - [ ] Collect material for Tutorial 5 |
+|           | - [X] Start work on weekly analytic content |
+|           | - [X] Collect material for Tutorial 5 |
 |           | - [ ] Look at problems people have posted on social media
 | March 21  | |
 |           | - [X] Send email to Engineers about Monday meeting |
