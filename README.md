@@ -2,11 +2,15 @@
 
 |  Date  |  Task |
 | ------ | ------| 
+| March 24  | |
+|           | - [ ] Develop a model for the next tutorial. |
+|           | - [ ] Read more of The Making of a Manager to learn about deliverables for a manager. |
+|           | - [ ] 2 Personal Projects, do something with them |
 | March 23  | |
-|           | - [ ] Meeting at 4:00 p.m. -- Blocked on the different views, have a discussion on the different view, best practices, examples to use as reference|
-|           | - [ ] Respond to Rohan, return with feedback on his code, his documentation, his bio. |
-|           | - [ ] Research for personal python project |
-|           | - [ ] Review notes from Roy meeting |
+|           | - [X] Meeting at 4:00 p.m. -- Blocked on the different views, have a discussion on the different view, best practices, examples to use as reference|
+|           | - [X] Respond to Rohan, return with feedback on his code, his documentation, his bio. |
+|           | - [X] Research for personal python project |
+|           | - [X] Review notes from Roy meeting |
 | March 22  | - [ ] |
 |           | - [X] Start work on weekly analytic content |
 |           | - [X] Collect material for Tutorial 5 |
